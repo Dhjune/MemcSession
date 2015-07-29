@@ -35,3 +35,4 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     <a href="jsp2.jsp">Session</a>
   </body>
 </html>
+
