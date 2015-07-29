@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
 String path = request.getContextPath();
@@ -23,7 +24,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
 
   <body>
-  测试!!
+  测试dfsd
   <%
   String un = request.getParameter("name");
   if (un == null || un.length() == 0) {
